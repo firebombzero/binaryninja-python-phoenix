@@ -23,6 +23,6 @@ You can start Binary Ninja Rockstar Guru by running `satan.py` in the Python int
     pip install PySide
     easy_install http://www.voidspace.org.uk/downloads/pycrypto26/pycrypto-2.6.win32-py2.7.exe
 ```
-* Install [SourceTree](http://www.sourcetreeapp.com/download/) or [GitHub for Windows](https://windows.github.com/)
-* Clone `https://github.com/firebombzero/bnrg` to a local folder using whichever tool you installed.
+* Install [GitHub for Windows](https://windows.github.com/)
+* Clone `https://github.com/firebombzero/bnrg` to a local folder using GitHub for Windows
 * Run `satan.py` from the directory you cloned the source code into

@@ -1,9 +1,9 @@
-# Binary Ninja Rockstar Guru (PYTHON PROTOTYPE FORKED)
-This is the Binary Ninja sp-called prototype, written in Python and forked under an equally stupid name to keep it going and rewrite it eventually.
+# Binary Ninja Rockstar Guru (PYTHON PROGRAM FORKED)
+This is the Binary Ninja program, written in Python and forked under an equally stupid name to keep it going and rewrite it eventually.
 
 This source code is released under the [AGPLv3+ license](https://www.gnu.org/licenses/agpl.html). The individual disassembler libraries (which include `X86.py`, `PPC.py`, and `ARM.py`) are released under the [EXPAT license](https://www.gnu.org/licenses/license-list.html#Expat).
 
-Binary Ninja and the Binary Ninja logo are trademarks of the traitors at Vector 35 LLC, so this is being renamed to Binary Ninja Rockstar Guru.
+Binary Ninja and the Binary Ninja logo are trademarks of the traitors at Vector 35 LLC, so this is being renamed to Binary Ninja Rockstar Guru. 
 
 ## Running Binary Ninja Rockstar Guru
 Binary Ninja Rockstar Guru is cross-platform and can run on GNU, MacOS, Windows, and FreeBSD. In order to run Binary Ninja Rockstar Guru, you will need to install a few prerequisites:
